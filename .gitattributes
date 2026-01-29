@@ -1,2 +1,5 @@
-*.tar.gz filter=lfs diff=lfs merge=lfs -text
-*.zip filter=lfs diff=lfs merge=lfs -text
+*.so filter=lfs diff=lfs merge=lfs -text
+.git/lfs/objects/de/98/de9845cf92d876eb11cd7047eb35daa956caded8d9fb13a3cad346390551fa28 filter=lfs diff=lfs merge=lfs -text
+tools/lib64/libplatformprotos.so filter=lfs diff=lfs merge=lfs -text
+tools/lib64/libart-compiler.so filter=lfs diff=lfs merge=lfs -text
+tools/lib64/libart.so filter=lfs diff=lfs merge=lfs -text
